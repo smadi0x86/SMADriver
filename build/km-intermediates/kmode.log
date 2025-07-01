@@ -1,0 +1,19 @@
+﻿  Building 'kmode' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping C:\Users\smadi\source\repos\SMADriver\build\km-intermediates\kmode.inf
+  Stamping [Version] section with DriverVer=06/29/2025,20.56.0.226
+  kmode.vcxproj -> C:\Users\smadi\source\repos\SMADriver\build\kmode.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\smadi\source\repos\SMADriver\build\kmode\kmode.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\smadi\source\repos\SMADriver\build\kmode\kmode.cat
+  

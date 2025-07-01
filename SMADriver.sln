@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "umode", "umode\umode.vcxproj", "{D2C3E477-D970-4A3E-9B3F-C42C55D14C1F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kmode", "kmode\kmode.vcxproj", "{62A82D75-1670-6E17-F996-F2B9326C25B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C3E477-D970-4A3E-9B3F-C42C55D14C1F}.Debug|x64.ActiveCfg = Debug|x64
+		{D2C3E477-D970-4A3E-9B3F-C42C55D14C1F}.Debug|x64.Build.0 = Debug|x64
+		{D2C3E477-D970-4A3E-9B3F-C42C55D14C1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2C3E477-D970-4A3E-9B3F-C42C55D14C1F}.Debug|x86.Build.0 = Debug|Win32
+		{D2C3E477-D970-4A3E-9B3F-C42C55D14C1F}.Release|x64.ActiveCfg = Release|x64
+		{D2C3E477-D970-4A3E-9B3F-C42C55D14C1F}.Release|x64.Build.0 = Release|x64
+		{D2C3E477-D970-4A3E-9B3F-C42C55D14C1F}.Release|x86.ActiveCfg = Release|Win32
+		{D2C3E477-D970-4A3E-9B3F-C42C55D14C1F}.Release|x86.Build.0 = Release|Win32
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Debug|x64.ActiveCfg = Debug|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Debug|x64.Build.0 = Debug|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Debug|x64.Deploy.0 = Debug|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Debug|x86.ActiveCfg = Debug|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Debug|x86.Build.0 = Debug|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Debug|x86.Deploy.0 = Debug|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Release|x64.ActiveCfg = Release|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Release|x64.Build.0 = Release|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Release|x64.Deploy.0 = Release|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Release|x86.ActiveCfg = Release|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Release|x86.Build.0 = Release|x64
+		{62A82D75-1670-6E17-F996-F2B9326C25B4}.Release|x86.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE16E543-F1C3-44A4-9BAA-CA55DC3412CC}
+	EndGlobalSection
+EndGlobal
